@@ -313,7 +313,7 @@
     }
 }
 
-@media (min-width: 512px) and (max-width: 800px) {
+@media (min-width: 512px) and (max-width: 1200px) {
     .Home-page {
         display: flex;
         justify-content: center;
@@ -601,7 +601,7 @@
     }
 }
 
-@media (min-width: 801px) and (max-width: 1200px) {
+@media (min-width: 1201px) and (max-width: 1400px) {
     .Home-page {
         display: flex;
         justify-content: center;
