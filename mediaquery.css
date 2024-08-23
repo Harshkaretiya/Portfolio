@@ -649,7 +649,7 @@
 
 
     .about-Page>.grid-container {
-        display: none;
+        display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
