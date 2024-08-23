@@ -1,4 +1,4 @@
-@media (min-width: 100px) and (max-width: 511px) {
+@media (min-width: 100px) and (max-width: 1200px) {
     .Home-page {
         display: flex;
         justify-content: center;
@@ -313,7 +313,7 @@
     }
 }
 
-@media (min-width: 512px) and (max-width: 1200px) {
+@media (min-width: 1201px) and (max-width: 1400px) {
     .Home-page {
         display: flex;
         justify-content: center;
@@ -601,7 +601,7 @@
     }
 }
 
-@media (min-width: 1201px) and (max-width: 1400px) {
+@media (min-width: 1401px) and (max-width: 1600px) {
     .Home-page {
         display: flex;
         justify-content: center;
