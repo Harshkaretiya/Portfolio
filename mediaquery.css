@@ -575,7 +575,7 @@
     }
 
     .contact-page .grid-container {
-        height: 50vh;
+        height: 100%;
         width: 70%;
         border: white solid 1px;
         border-radius: 3rem;
