@@ -11,7 +11,7 @@ const swiper = new Swiper(".skills-page .swiper", {
     modifier: 1,
     slideShadows: true,
   },
-  initialSlide:1,
+  initialSlide:0,
   navigation: {
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',
